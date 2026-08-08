@@ -1,2 +1,2 @@
 # Java-Step-Sem3
-Here’s a simple GitHub repository description you can use:  > **Java Step Sem3** — A collection of Java programs, concepts, and practice exercises created as part of my Semester 3 learning and coursework.
+ **Java Step Sem3** — A collection of Java programs, concepts, and practice exercises created as part of my Semester 3 learning and coursework.
